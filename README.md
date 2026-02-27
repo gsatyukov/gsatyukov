@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="500" height="500" alt="deo-logo-2" src="https://github.com/user-attachments/assets/f3fe61ff-721e-4f99-ab75-2086b1d47a2c" />
 
 <!--
 **gsatyukov/gsatyukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
