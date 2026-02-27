@@ -1,7 +1,8 @@
-## DEO creates quality jobs, helps small businesses and high-road employers start and grow, and build vibrant communities and spaces.  
-### We strive for a more equitable economy with thriving local communities, inclusive and sustainable growth, and opportunity and mobility for all.
+<img width="221" height="91" alt="deo-logo-3" src="https://github.com/user-attachments/assets/8e8c22c7-b40b-426b-b544-479107a51cd0" /> 
 
-<img width="500"  alt="deo-logo-3" src="https://github.com/user-attachments/assets/0df07689-e12e-45d0-850a-ba1c5e89d325" />
+### DEO creates quality jobs, helps small businesses and high-road employers start and grow, and build vibrant communities and spaces. We strive for a more equitable economy with thriving local communities, inclusive and sustainable growth, and opportunity and mobility for all.
+
+
 
 
 <!--
