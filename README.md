@@ -1,4 +1,8 @@
-<img width="500" height="500" alt="deo-logo-2" src="https://github.com/user-attachments/assets/f3fe61ff-721e-4f99-ab75-2086b1d47a2c" />
+## DEO creates quality jobs, helps small businesses and high-road employers start and grow, and build vibrant communities and spaces.  
+### We strive for a more equitable economy with thriving local communities, inclusive and sustainable growth, and opportunity and mobility for all.
+
+<img width="500"  alt="deo-logo-3" src="https://github.com/user-attachments/assets/0df07689-e12e-45d0-850a-ba1c5e89d325" />
+
 
 <!--
 **gsatyukov/gsatyukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
